@@ -5,4 +5,4 @@ arch:
   - ppc64le
 
 script:
-  - echo "I scream and I SHOUT" 1>&2
+  - echo "I scream and I SHOUT" >&2
